@@ -14,7 +14,7 @@ export default function Carousel() {
       description: "Mango, piña y maracuyá",
       price: "$5.99",
       color: "#ffa500",
-      image: "/tropical-juice.jpg",
+      image: "/fresh-orange-juice.png",
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ export default function Carousel() {
       description: "Espinaca, manzana verde y jengibre",
       price: "$6.99",
       color: "#c6f50f",
-      image: "/green-detox.jpg",
+      image: "/fresh-orange-juice.png",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ export default function Carousel() {
       description: "Fresas, arándanos y frambuesas",
       price: "$6.49",
       color: "#f67453",
-      image: "/berry-blast.jpg",
+      image: "/fresh-orange-juice.png",
     },
     {
       id: 4,
@@ -38,7 +38,7 @@ export default function Carousel() {
       description: "Naranja, limón y toronja",
       price: "$4.99",
       color: "#f6c653",
-      image: "/citrus-sunrise.jpg",
+      image: "/fresh-orange-juice.png",
     },
     {
       id: 5,
@@ -54,7 +54,7 @@ export default function Carousel() {
       description: "Maracuyá, durazno y naranja",
       price: "$6.99",
       color: "#ffa500",
-      image: "/passion-fusion.jpg",
+      image: "/green-smoothie-with-kiwi-in-glass.jpg",
     },
   ]
 
